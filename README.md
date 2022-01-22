@@ -6,7 +6,7 @@ An implementation of retrieval-enhanced transformer based on Hugging Face Transf
 ## TODO
 - [ ] Implement the Chunked Cross Attention (CCA)
 - [ ] Implement the BERT retreiver based on Hugging Face Transformers and FAISS
-- [ ] Add CCA and retriever to GPT2, GPTNeo, GPTJ of Hugging Face Transformers
+- [ ] Add CCA and retriever to GPT2 model of Hugging Face Transformers
 - [ ] Fine-tuning and Evaluation
 
 ## Citations
