@@ -1,5 +1,7 @@
-# retro
+# RETRO
 An implementation of retrieval-enhanced transformer based on Hugging Face Transformers and FAISS
+
+![](https://user-images.githubusercontent.com/38183241/150641412-4cf9cd11-7a00-45f0-b582-f8c76cb16dda.png)
 
 ## TODO
 - [ ] Implement the Chunked Cross Attention (CCA)
